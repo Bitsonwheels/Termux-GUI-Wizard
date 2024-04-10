@@ -8,7 +8,7 @@ Xfce is the most stable desktop environment at this moment but users can choose 
 # Installation #
 Run the following code on your Termux terminal and follow the onscreen instructions.
 ```
-curl -s "https://raw.githubusercontent.com/sonothamin/Termux-GUI-Wizard/main/termux-gui-setup.sh" | bash
+curl -s "https://raw.githubusercontent.com/Bitsonwheels/Termux-GUI-Wizard/main/termux-gui-setup.sh" | bash
 ```
 
 Next, run the following command to start the desktop environment
@@ -34,4 +34,4 @@ ifconfig  | grep inet | grep broadcast
 In the output, inet is your LAN IP.
 
 # Screenshot #
-![Screenshot](https://github.com/sonothamin/Termux-GUI-Wizard/raw/main/Main%20Menu.png)
+![Screenshot](https://github.com/Bitsonwheels/Termux-GUI-Wizard/raw/main/Main%20Menu.png)
